@@ -1,7 +1,7 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-04-19 10:34 UTC",
+  "last_updated": "2026-04-19 10:54 UTC",
   "videos": [
     {
       "id": "HtaFQXZZZLw",
@@ -14,16 +14,6 @@
       "seconds": 1001
     },
     {
-      "id": "nVeAJY61w40",
-      "title": "כל תרומה שווה ריקוד מטורף, ירינוב מסביר את השיטה",
-      "url": "https://www.youtube.com/watch?v=nVeAJY61w40",
-      "short_url": "https://www.youtube.com/shorts/nVeAJY61w40",
-      "thumbnail": "https://i.ytimg.com/vi/nVeAJY61w40/hqdefault.jpg",
-      "published": "2026-04-18T10:18:15Z",
-      "duration": "0:21",
-      "seconds": 21
-    },
-    {
       "id": "zW3QhDgMhGQ",
       "title": "ניסיתי לעשות ניתוח לב וזה הסתבך",
       "url": "https://www.youtube.com/watch?v=zW3QhDgMhGQ",
@@ -32,7 +22,48 @@
       "published": "2026-04-16T10:11:57Z",
       "duration": "20:38",
       "seconds": 1238
+    },
+    {
+      "id": "1TQtJZagu84",
+      "title": "אני אצליח להציל את הנשיא ברגע האחרון?!",
+      "url": "https://www.youtube.com/watch?v=1TQtJZagu84",
+      "short_url": "https://www.youtube.com/shorts/1TQtJZagu84",
+      "thumbnail": "https://i.ytimg.com/vi/1TQtJZagu84/hqdefault.jpg",
+      "published": "2026-04-15T11:48:29Z",
+      "duration": "10:45",
+      "seconds": 645
     }
   ],
-  "shorts": []
+  "shorts": [
+    {
+      "id": "nVeAJY61w40",
+      "title": "כל תרומה שווה ריקוד מטורף, ירינוב מסביר את השיטה",
+      "url": "https://www.youtube.com/shorts/nVeAJY61w40",
+      "short_url": "https://www.youtube.com/shorts/nVeAJY61w40",
+      "thumbnail": "https://i.ytimg.com/vi/nVeAJY61w40/hqdefault.jpg",
+      "published": "2026-04-18T10:18:15Z",
+      "duration": "0:21",
+      "seconds": 21
+    },
+    {
+      "id": "Y3_PHm48nzo",
+      "title": "לא תאמינו נו מה עשיתי למטופל שלי?!",
+      "url": "https://www.youtube.com/shorts/Y3_PHm48nzo",
+      "short_url": "https://www.youtube.com/shorts/Y3_PHm48nzo",
+      "thumbnail": "https://i.ytimg.com/vi/Y3_PHm48nzo/hqdefault.jpg",
+      "published": "2026-04-15T14:20:16Z",
+      "duration": "0:50",
+      "seconds": 50
+    },
+    {
+      "id": "s8nsC_8ilHQ",
+      "title": "סיימתי את המשחק? או שלא?",
+      "url": "https://www.youtube.com/shorts/s8nsC_8ilHQ",
+      "short_url": "https://www.youtube.com/shorts/s8nsC_8ilHQ",
+      "thumbnail": "https://i.ytimg.com/vi/s8nsC_8ilHQ/hqdefault.jpg",
+      "published": "2026-04-11T12:48:27Z",
+      "duration": "0:54",
+      "seconds": 54
+    }
+  ]
 }
