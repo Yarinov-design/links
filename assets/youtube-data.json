@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-04-19 10:54 UTC",
+  "last_updated": "2026-04-19 12:07 UTC",
   "videos": [
+    {
+      "id": "Y5R_W5pCGbc",
+      "title": "זה המשחק הכי מפגר ששיחקתי בחיים שלי",
+      "url": "https://www.youtube.com/watch?v=Y5R_W5pCGbc",
+      "short_url": "https://www.youtube.com/shorts/Y5R_W5pCGbc",
+      "thumbnail": "https://i.ytimg.com/vi/Y5R_W5pCGbc/hqdefault.jpg",
+      "published": "2026-04-19T11:41:35Z",
+      "duration": "37:31",
+      "seconds": 2251
+    },
     {
       "id": "HtaFQXZZZLw",
       "title": "המשחק הזה היה הרבה יותר מטורף ממה שחשבתי | Brawlhalla",
@@ -22,16 +32,6 @@
       "published": "2026-04-16T10:11:57Z",
       "duration": "20:38",
       "seconds": 1238
-    },
-    {
-      "id": "1TQtJZagu84",
-      "title": "אני אצליח להציל את הנשיא ברגע האחרון?!",
-      "url": "https://www.youtube.com/watch?v=1TQtJZagu84",
-      "short_url": "https://www.youtube.com/shorts/1TQtJZagu84",
-      "thumbnail": "https://i.ytimg.com/vi/1TQtJZagu84/hqdefault.jpg",
-      "published": "2026-04-15T11:48:29Z",
-      "duration": "10:45",
-      "seconds": 645
     }
   ],
   "shorts": [
