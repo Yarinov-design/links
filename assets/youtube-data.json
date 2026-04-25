@@ -1,7 +1,7 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-04-25 18:07 UTC",
+  "last_updated": "2026-04-25 20:07 UTC",
   "videos": [
     {
       "id": "NZTMHSPRvbQ",
@@ -36,6 +36,16 @@
   ],
   "shorts": [
     {
+      "id": "ppHecJHEO_w",
+      "title": "מה זה ג'ונגל?!",
+      "url": "https://www.youtube.com/shorts/ppHecJHEO_w",
+      "short_url": "https://www.youtube.com/shorts/ppHecJHEO_w",
+      "thumbnail": "https://i.ytimg.com/vi/ppHecJHEO_w/hqdefault.jpg",
+      "published": "2026-04-25T19:38:00Z",
+      "duration": "0:26",
+      "seconds": 26
+    },
+    {
       "id": "1FK2lTKwVYE",
       "title": "הבוס האדום הזה הופיע משום מקום!",
       "url": "https://www.youtube.com/shorts/1FK2lTKwVYE",
@@ -54,16 +64,6 @@
       "published": "2026-04-19T12:30:18Z",
       "duration": "0:36",
       "seconds": 36
-    },
-    {
-      "id": "nVeAJY61w40",
-      "title": "כל תרומה שווה ריקוד מטורף, ירינוב מסביר את השיטה",
-      "url": "https://www.youtube.com/shorts/nVeAJY61w40",
-      "short_url": "https://www.youtube.com/shorts/nVeAJY61w40",
-      "thumbnail": "https://i.ytimg.com/vi/nVeAJY61w40/hqdefault.jpg",
-      "published": "2026-04-18T10:18:15Z",
-      "duration": "0:21",
-      "seconds": 21
     }
   ]
 }
