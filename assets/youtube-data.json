@@ -1,7 +1,7 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-04-26 15:04 UTC",
+  "last_updated": "2026-04-26 17:27 UTC",
   "videos": [
     {
       "id": "NZTMHSPRvbQ",
@@ -36,6 +36,26 @@
   ],
   "shorts": [
     {
+      "id": "1qQjq19CG0c",
+      "title": "ירינוב שר?!",
+      "url": "https://www.youtube.com/shorts/1qQjq19CG0c",
+      "short_url": "https://www.youtube.com/shorts/1qQjq19CG0c",
+      "thumbnail": "https://i.ytimg.com/vi/1qQjq19CG0c/hqdefault.jpg",
+      "published": "2026-04-26T15:58:36Z",
+      "duration": "0:30",
+      "seconds": 30
+    },
+    {
+      "id": "uRlGQOc4ZXU",
+      "title": "ירינוב מאבד את זה",
+      "url": "https://www.youtube.com/shorts/uRlGQOc4ZXU",
+      "short_url": "https://www.youtube.com/shorts/uRlGQOc4ZXU",
+      "thumbnail": "https://i.ytimg.com/vi/uRlGQOc4ZXU/hqdefault.jpg",
+      "published": "2026-04-26T15:22:36Z",
+      "duration": "0:20",
+      "seconds": 20
+    },
+    {
       "id": "ppHecJHEO_w",
       "title": "מה זה ג'ונגל?!",
       "url": "https://www.youtube.com/shorts/ppHecJHEO_w",
@@ -44,26 +64,6 @@
       "published": "2026-04-25T19:38:00Z",
       "duration": "0:26",
       "seconds": 26
-    },
-    {
-      "id": "1FK2lTKwVYE",
-      "title": "הבוס האדום הזה הופיע משום מקום!",
-      "url": "https://www.youtube.com/shorts/1FK2lTKwVYE",
-      "short_url": "https://www.youtube.com/shorts/1FK2lTKwVYE",
-      "thumbnail": "https://i.ytimg.com/vi/1FK2lTKwVYE/hqdefault.jpg",
-      "published": "2026-04-22T08:43:04Z",
-      "duration": "0:22",
-      "seconds": 22
-    },
-    {
-      "id": "XkoaznMdt5o",
-      "title": "יארינוב נלחם בסירי",
-      "url": "https://www.youtube.com/shorts/XkoaznMdt5o",
-      "short_url": "https://www.youtube.com/shorts/XkoaznMdt5o",
-      "thumbnail": "https://i.ytimg.com/vi/XkoaznMdt5o/hqdefault.jpg",
-      "published": "2026-04-19T12:30:18Z",
-      "duration": "0:36",
-      "seconds": 36
     }
   ]
 }
