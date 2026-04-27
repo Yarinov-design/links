@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-04-27 19:59 UTC",
+  "last_updated": "2026-04-27 22:36 UTC",
   "videos": [
+    {
+      "id": "9pe0Y3DWIU4",
+      "title": "המשחק הזה גרם לי לאבד את זה | Crab Game",
+      "url": "https://www.youtube.com/watch?v=9pe0Y3DWIU4",
+      "short_url": "https://www.youtube.com/shorts/9pe0Y3DWIU4",
+      "thumbnail": "https://i.ytimg.com/vi/9pe0Y3DWIU4/hqdefault.jpg",
+      "published": "2026-04-27T20:08:36Z",
+      "duration": "55:52",
+      "seconds": 3352
+    },
     {
       "id": "NZTMHSPRvbQ",
       "title": "אתגרתי את קרייבון ל1V1 ברובלוקס",
@@ -22,19 +32,29 @@
       "published": "2026-04-19T13:58:21Z",
       "duration": "35:17",
       "seconds": 2117
-    },
-    {
-      "id": "HtaFQXZZZLw",
-      "title": "המשחק הזה היה הרבה יותר מטורף ממה שחשבתי | Brawlhalla",
-      "url": "https://www.youtube.com/watch?v=HtaFQXZZZLw",
-      "short_url": "https://www.youtube.com/shorts/HtaFQXZZZLw",
-      "thumbnail": "https://i.ytimg.com/vi/HtaFQXZZZLw/hqdefault.jpg",
-      "published": "2026-04-18T10:36:48Z",
-      "duration": "16:41",
-      "seconds": 1001
     }
   ],
   "shorts": [
+    {
+      "id": "EqfTQ_y6sr0",
+      "title": "בגידה בשידור חי! ירינוב נגד מרקו",
+      "url": "https://www.youtube.com/shorts/EqfTQ_y6sr0",
+      "short_url": "https://www.youtube.com/shorts/EqfTQ_y6sr0",
+      "thumbnail": "https://i.ytimg.com/vi/EqfTQ_y6sr0/hqdefault.jpg",
+      "published": "2026-04-27T20:19:38Z",
+      "duration": "0:31",
+      "seconds": 31
+    },
+    {
+      "id": "EP-N1KTBq2c",
+      "title": "הימור של 50/50 על ה-VIP",
+      "url": "https://www.youtube.com/shorts/EP-N1KTBq2c",
+      "short_url": "https://www.youtube.com/shorts/EP-N1KTBq2c",
+      "thumbnail": "https://i.ytimg.com/vi/EP-N1KTBq2c/hqdefault.jpg",
+      "published": "2026-04-27T20:16:23Z",
+      "duration": "1:14",
+      "seconds": 74
+    },
     {
       "id": "1qQjq19CG0c",
       "title": "ירינוב שר?!",
@@ -44,26 +64,6 @@
       "published": "2026-04-26T15:58:36Z",
       "duration": "0:30",
       "seconds": 30
-    },
-    {
-      "id": "uRlGQOc4ZXU",
-      "title": "ירינוב מאבד את זה",
-      "url": "https://www.youtube.com/shorts/uRlGQOc4ZXU",
-      "short_url": "https://www.youtube.com/shorts/uRlGQOc4ZXU",
-      "thumbnail": "https://i.ytimg.com/vi/uRlGQOc4ZXU/hqdefault.jpg",
-      "published": "2026-04-26T15:22:36Z",
-      "duration": "0:20",
-      "seconds": 20
-    },
-    {
-      "id": "ppHecJHEO_w",
-      "title": "מה זה ג'ונגל?!",
-      "url": "https://www.youtube.com/shorts/ppHecJHEO_w",
-      "short_url": "https://www.youtube.com/shorts/ppHecJHEO_w",
-      "thumbnail": "https://i.ytimg.com/vi/ppHecJHEO_w/hqdefault.jpg",
-      "published": "2026-04-25T19:38:00Z",
-      "duration": "0:26",
-      "seconds": 26
     }
   ]
 }
