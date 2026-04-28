@@ -1,7 +1,7 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-04-28 16:13 UTC",
+  "last_updated": "2026-04-28 20:49 UTC",
   "videos": [
     {
       "id": "ZP01U96v-v0",
@@ -36,6 +36,26 @@
   ],
   "shorts": [
     {
+      "id": "LWxvAhydw9o",
+      "title": "מה קורה פה?!",
+      "url": "https://www.youtube.com/shorts/LWxvAhydw9o",
+      "short_url": "https://www.youtube.com/shorts/LWxvAhydw9o",
+      "thumbnail": "https://i.ytimg.com/vi/LWxvAhydw9o/hqdefault.jpg",
+      "published": "2026-04-28T19:15:13Z",
+      "duration": "0:20",
+      "seconds": 20
+    },
+    {
+      "id": "ZLj66QZjPwo",
+      "title": "מה זה הדבר הזה?!",
+      "url": "https://www.youtube.com/shorts/ZLj66QZjPwo",
+      "short_url": "https://www.youtube.com/shorts/ZLj66QZjPwo",
+      "thumbnail": "https://i.ytimg.com/vi/ZLj66QZjPwo/hqdefault.jpg",
+      "published": "2026-04-28T19:09:40Z",
+      "duration": "0:18",
+      "seconds": 18
+    },
+    {
       "id": "EqfTQ_y6sr0",
       "title": "בגידה בשידור חי! ירינוב נגד מרקו",
       "url": "https://www.youtube.com/shorts/EqfTQ_y6sr0",
@@ -44,26 +64,6 @@
       "published": "2026-04-27T20:19:38Z",
       "duration": "0:31",
       "seconds": 31
-    },
-    {
-      "id": "EP-N1KTBq2c",
-      "title": "הימור של 50/50 על ה-VIP",
-      "url": "https://www.youtube.com/shorts/EP-N1KTBq2c",
-      "short_url": "https://www.youtube.com/shorts/EP-N1KTBq2c",
-      "thumbnail": "https://i.ytimg.com/vi/EP-N1KTBq2c/hqdefault.jpg",
-      "published": "2026-04-27T20:16:23Z",
-      "duration": "1:14",
-      "seconds": 74
-    },
-    {
-      "id": "1qQjq19CG0c",
-      "title": "ירינוב שר?!",
-      "url": "https://www.youtube.com/shorts/1qQjq19CG0c",
-      "short_url": "https://www.youtube.com/shorts/1qQjq19CG0c",
-      "thumbnail": "https://i.ytimg.com/vi/1qQjq19CG0c/hqdefault.jpg",
-      "published": "2026-04-26T15:58:36Z",
-      "duration": "0:30",
-      "seconds": 30
     }
   ]
 }
