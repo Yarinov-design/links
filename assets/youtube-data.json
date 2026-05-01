@@ -1,7 +1,7 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-05-01 11:41 UTC",
+  "last_updated": "2026-05-01 15:35 UTC",
   "videos": [
     {
       "id": "q-pfE2d45Ig",
@@ -36,6 +36,26 @@
   ],
   "shorts": [
     {
+      "id": "_SvdArl7IR0",
+      "title": "ירינוב מנסה לנצח",
+      "url": "https://www.youtube.com/shorts/_SvdArl7IR0",
+      "short_url": "https://www.youtube.com/shorts/_SvdArl7IR0",
+      "thumbnail": "https://i.ytimg.com/vi/_SvdArl7IR0/hqdefault.jpg",
+      "published": "2026-05-01T14:54:30Z",
+      "duration": "0:12",
+      "seconds": 12
+    },
+    {
+      "id": "rkQfLmjY_08",
+      "title": "הצופים שלי מתעצבנים על חבר שלי",
+      "url": "https://www.youtube.com/shorts/rkQfLmjY_08",
+      "short_url": "https://www.youtube.com/shorts/rkQfLmjY_08",
+      "thumbnail": "https://i.ytimg.com/vi/rkQfLmjY_08/hqdefault.jpg",
+      "published": "2026-05-01T14:52:18Z",
+      "duration": "0:19",
+      "seconds": 19
+    },
+    {
       "id": "VnsU-Wf5JRE",
       "title": "המשחק הזה כל כך קשה!?!",
       "url": "https://www.youtube.com/shorts/VnsU-Wf5JRE",
@@ -44,26 +64,6 @@
       "published": "2026-04-30T09:24:39Z",
       "duration": "0:30",
       "seconds": 30
-    },
-    {
-      "id": "sNEOE8SXW_k",
-      "title": "אני והצופים כמעט הצלחנו !!!!?!",
-      "url": "https://www.youtube.com/shorts/sNEOE8SXW_k",
-      "short_url": "https://www.youtube.com/shorts/sNEOE8SXW_k",
-      "thumbnail": "https://i.ytimg.com/vi/sNEOE8SXW_k/hqdefault.jpg",
-      "published": "2026-04-30T09:24:31Z",
-      "duration": "0:26",
-      "seconds": 26
-    },
-    {
-      "id": "LWxvAhydw9o",
-      "title": "מה קורה פה?!",
-      "url": "https://www.youtube.com/shorts/LWxvAhydw9o",
-      "short_url": "https://www.youtube.com/shorts/LWxvAhydw9o",
-      "thumbnail": "https://i.ytimg.com/vi/LWxvAhydw9o/hqdefault.jpg",
-      "published": "2026-04-28T19:15:13Z",
-      "duration": "0:20",
-      "seconds": 20
     }
   ]
 }
