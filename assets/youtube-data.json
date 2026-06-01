@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-06-01 16:33 UTC",
+  "last_updated": "2026-06-01 20:51 UTC",
   "videos": [
+    {
+      "id": "KxC-jsup9DE",
+      "title": "המשחק הזה שורף יותר קלוריות מחדר כושר",
+      "url": "https://www.youtube.com/watch?v=KxC-jsup9DE",
+      "short_url": "https://www.youtube.com/shorts/KxC-jsup9DE",
+      "thumbnail": "https://i.ytimg.com/vi/KxC-jsup9DE/hqdefault.jpg",
+      "published": "2026-06-01T18:52:43Z",
+      "duration": "16:40",
+      "seconds": 1000
+    },
     {
       "id": "3CXi2EANySA",
       "title": "אני אווטאר קורה",
@@ -22,16 +32,6 @@
       "published": "2026-05-06T09:00:20Z",
       "duration": "22:59",
       "seconds": 1379
-    },
-    {
-      "id": "ipZGA8dZmyM",
-      "title": "שיחקתי עם מיכאל IGZ ב Airport Security Sucks וזה נהיה כאוס",
-      "url": "https://www.youtube.com/watch?v=ipZGA8dZmyM",
-      "short_url": "https://www.youtube.com/shorts/ipZGA8dZmyM",
-      "thumbnail": "https://i.ytimg.com/vi/ipZGA8dZmyM/hqdefault.jpg",
-      "published": "2026-05-05T11:20:21Z",
-      "duration": "38:39",
-      "seconds": 2319
     }
   ],
   "shorts": [
