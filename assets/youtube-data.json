@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-06-08 20:38 UTC",
+  "last_updated": "2026-06-08 22:21 UTC",
   "videos": [
+    {
+      "id": "hM6ImfqlCCs",
+      "title": "מר יוטיוב חזר? | ירינוב מגיב לאנימה של רונן גיגי חלק 2",
+      "url": "https://www.youtube.com/watch?v=hM6ImfqlCCs",
+      "short_url": "https://www.youtube.com/shorts/hM6ImfqlCCs",
+      "thumbnail": "https://i.ytimg.com/vi/hM6ImfqlCCs/hqdefault.jpg",
+      "published": "2026-06-08T20:40:38Z",
+      "duration": "3:20",
+      "seconds": 200
+    },
     {
       "id": "KxC-jsup9DE",
       "title": "המשחק הזה שורף יותר קלוריות מחדר כושר",
@@ -22,16 +32,6 @@
       "published": "2026-05-13T08:21:31Z",
       "duration": "1:06:46",
       "seconds": 4006
-    },
-    {
-      "id": "z17pPRY2zbs",
-      "title": "כל העצים במשחק הזה שונאים אותך",
-      "url": "https://www.youtube.com/watch?v=z17pPRY2zbs",
-      "short_url": "https://www.youtube.com/shorts/z17pPRY2zbs",
-      "thumbnail": "https://i.ytimg.com/vi/z17pPRY2zbs/hqdefault.jpg",
-      "published": "2026-05-06T09:00:20Z",
-      "duration": "22:59",
-      "seconds": 1379
     }
   ],
   "shorts": [
