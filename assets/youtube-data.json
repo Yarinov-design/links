@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-06-14 12:20 UTC",
+  "last_updated": "2026-06-14 14:37 UTC",
   "videos": [
+    {
+      "id": "SvosqbA4H5g",
+      "title": "זה בין הדברים הטובים שראיתי בחיים שלי | ירינוב מגיב לרונן גיגי אנימה חלק  3",
+      "url": "https://www.youtube.com/watch?v=SvosqbA4H5g",
+      "short_url": "https://www.youtube.com/shorts/SvosqbA4H5g",
+      "thumbnail": "https://i.ytimg.com/vi/SvosqbA4H5g/hqdefault.jpg",
+      "published": "2026-06-14T13:39:36Z",
+      "duration": "11:38",
+      "seconds": 698
+    },
     {
       "id": "hM6ImfqlCCs",
       "title": "מר יוטיוב חזר? | ירינוב מגיב לאנימה של רונן גיגי חלק 2",
@@ -22,16 +32,6 @@
       "published": "2026-06-01T18:52:43Z",
       "duration": "16:40",
       "seconds": 1000
-    },
-    {
-      "id": "3CXi2EANySA",
-      "title": "אני אווטאר קורה",
-      "url": "https://www.youtube.com/watch?v=3CXi2EANySA",
-      "short_url": "https://www.youtube.com/shorts/3CXi2EANySA",
-      "thumbnail": "https://i.ytimg.com/vi/3CXi2EANySA/hqdefault.jpg",
-      "published": "2026-05-13T08:21:31Z",
-      "duration": "1:06:46",
-      "seconds": 4006
     }
   ],
   "shorts": [
